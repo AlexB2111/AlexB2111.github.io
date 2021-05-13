@@ -10,7 +10,11 @@ li {
 }
 
 li a {
+  color: rgb(0,0,0);
+  font-family: "Trebuchet MS";
+  font-size: 30px;
+  font-wieght: normal;
   display: block;
   padding: 8px;
-  background-color: #dddddd;
+  background-color: rgb(250,250,250);
 }
